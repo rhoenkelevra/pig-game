@@ -9,7 +9,7 @@ GAME RULES:
 
 */
 
-var scores, roundScore, activePlayer, gamePlaying;≤
+var scores, roundScore, activePlayer, gamePlaying;
 
 function init(){
 	scores = [0, 0];
