@@ -1,0 +1,7 @@
+Game Rules:
+
+- The game has 2 p;ayers, playing in rounds.
+- In each turn, a player rolls a dice as many times as he whishes. Each reult get added to his ROUND score.
+- BUT, if the player rolls a 1, all his ROUND score gets lost. After thet, it's the next player's turn.
+-The player can choose to "HOLD", wich means that his ROUND score gets added to his GLOBAL score. After that. it's the next player's turn.
+- The first player to reach 100 points on GLOBAL score wins the game.
